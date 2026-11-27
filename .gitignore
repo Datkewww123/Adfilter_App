@@ -10,3 +10,7 @@ coverage/
 *.mobileprovision
 .DS_Store
 Thumbs.db
+# Internal AI notes
+rule.md
+history.md
+*HUONG_DAN*.md

@@ -2,6 +2,11 @@
 
 Mọi thay đổi đáng chú ý của dự án **AdFilter Mobile** được ghi nhận tại đây.
 
+## [0.1.1] - 2026-11-27
+
+### Fixed
+- Sửa đường dẫn GitHub Actions workflow và gỡ file ghi chú nội bộ khỏi Git.
+
 ## [0.1.0] - 2026-11-27
 
 ### Added

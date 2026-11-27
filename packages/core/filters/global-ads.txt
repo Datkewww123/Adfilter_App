@@ -1,0 +1,25 @@
+[Adblock Plus 2.0]
+! Title: AdFilter Mobile Global Ads & Trackers
+
+||doubleclick.net^$third-party
+||googlesyndication.com^$third-party
+||googleadservices.com^$third-party
+||taboola.com^$third-party
+||outbrain.com^$third-party
+||criteo.com^$third-party
+||criteo.net^$third-party
+||pubmatic.com^$third-party
+||rubiconproject.com^$third-party
+||openx.net^$third-party
+||adnxs.com^$third-party
+||amazon-adsystem.com^$third-party
+||moatads.com^$third-party
+||scorecardresearch.com^$third-party
+||popads.net^$document,script,subdocument,xmlhttprequest
+||popcash.net^$document,script,subdocument
+||exoclick.com^$document,script,xmlhttprequest,subdocument
+||juicyads.com^$document,script,subdocument
+||trafficjunky.net^$document,script,subdocument
+||tsyndicate.com^$document,script,subdocument,xmlhttprequest
+##.adsbygoogle
+##.ad-banner-container

@@ -1,0 +1,14 @@
+[Adblock Plus 2.0]
+! Title: AdFilter Mobile Vietnam Shield
+
+*/template/frontend/js/widget/*$script,xmlhttprequest
+*/api/widget/*$xmlhttprequest,script
+||clickadu.com^$document,script,xmlhttprequest,subdocument
+||adqc.net^$document,script,subdocument,xmlhttprequest,image,important
+||magiamgia.space^$document,script,subdocument,xmlhttprequest,image,important
+||mplmncb.com^$document,script,xmlhttprequest,subdocument,image
+||sunwinchinhhang.com^$script,subdocument,image
+||gemwinchinhhang.com^$script,subdocument,image
+||rikvipchinhhang.com^$script,subdocument,image
+##.qc-floating-bottom
+##.banner-quang-cao
